@@ -6,7 +6,7 @@
           <img src="./assets/favicon.ico">
           <span>Han Analytics</span>
         </div>
-        <h2>简单优雅的Web分析</h2>
+        <h2>简单优雅的Web分析!</h2>
       </div>
     </header>
     <main>
